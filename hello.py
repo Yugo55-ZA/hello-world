@@ -1,3 +1,3 @@
 
 print("Hello, World!")
-print("I am learning Git!")
+print("ja ucim GIT i ne razumem nista!")
